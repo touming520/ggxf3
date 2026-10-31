@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://i-operation.csdnimg.cn/ad/ad_pic/57c89db740a14ffb82a0a88d0a0694c9.jpeg",
+    "title": "CSDN 官方推广",
+    "desc": "程序员专属社区 · 点击了解详情",
+    "url": "https://www.csdn.net"
+  },
+  {
+    "image": "https://picsum.photos/seed/pclad1/1200/300",
+    "title": "今日推荐",
+    "desc": "点击查看精选内容",
+    "url": "https://www.baidu.com"
+  },
+  {
+    "image": "https://picsum.photos/seed/pclad2/1200/300",
+    "title": "热门活动",
+    "desc": "限时开启 · 点击参与",
+    "url": "https://www.baidu.com"
+  },
+  {
+    "image": "https://picsum.photos/seed/pclad3/1200/300",
+    "title": "精品推荐",
+    "desc": "不容错过的精彩内容",
+    "url": "https://www.baidu.com"
+  },
+  {
+    "image": "https://picsum.photos/seed/pclad4/1200/300",
+    "title": "特别推广",
+    "desc": "点击了解详情",
+    "url": "https://www.google.com"
+  },
+  {
+    "image": "https://dummyimage.com/1200x300/2b6cb0/ffffff.png&text=ADVERTISING",
+    "title": "广告位招租",
+    "desc": "点击联系合作",
+    "url": "https://www.baidu.com"
+  }
+]
